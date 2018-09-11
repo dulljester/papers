@@ -850,38 +850,38 @@ url="https://doi.org/10.1007/978-3-642-25591-5_16"
 }
 
 @article{DBLP:journals/ipl/Crochemore81,
-  author    = {Maxime Crochemore},
-  title     = {An Optimal Algorithm for Computing the Repetitions in a Word},
-  journal   = {Inf. Process. Lett.},
-  volume    = {12},
-  number    = {5},
-  pages     = {244--250},
-  year      = {1981}
+		  author    = {Maxime Crochemore},
+		    title     = {An Optimal Algorithm for Computing the Repetitions in a Word},
+			  journal   = {Inf. Process. Lett.},
+			    volume    = {12},
+				  number    = {5},
+				    pages     = {244--250},
+					  year      = {1981}
 }
 
 @article{DBLP:journals/jcss/GusfieldS04,
-  author    = {Dan Gusfield and
-                 Jens Stoye},
-  title     = {Linear time algorithms for finding and representing all the tandem
-		               repeats in a string},
-  journal   = {J. Comput. Syst. Sci.},
-  volume    = {69},
-  number    = {4},
-  pages     = {525--546},
-  year      = {2004}
+		  author    = {Dan Gusfield and
+				                 Jens Stoye},
+		    title     = {Linear time algorithms for finding and representing all the tandem
+					               repeats in a string},
+			  journal   = {J. Comput. Syst. Sci.},
+			    volume    = {69},
+				  number    = {4},
+				    pages     = {525--546},
+					  year      = {2004}
 }
 
 @inproceedings{DBLP:conf/esa/FerraginaM96,
-  author    = {Paolo Ferragina and
-                S. Muthukrishnan},
-  title     = {Efficient Dynamic Method-Lookup for Object Oriented Languages (Extended
-			               Abstract)},
-  booktitle = {{ESA}},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {1136},
-  pages     = {107--120},
-  publisher = {Springer},
-  year      = {1996}
+		  author    = {Paolo Ferragina and
+				                 S. Muthukrishnan},
+		    title     = {Efficient Dynamic Method-Lookup for Object Oriented Languages (Extended
+							               Abstract)},
+			  booktitle = {{ESA}},
+			    series    = {Lecture Notes in Computer Science},
+				  volume    = {1136},
+				    pages     = {107--120},
+					  publisher = {Springer},
+					    year      = {1996}
 }
 
 @inproceedings{DBLP:conf/swat/FarzanM08,
@@ -910,23 +910,5 @@ url="https://doi.org/10.1007/978-3-642-25591-5_16"
   doi       = {10.1007/s00453-012-9683-x},
   timestamp = {Wed, 17 May 2017 14:25:14 +0200},
   biburl    = {https://dblp.org/rec/bib/journals/algorithmica/DemaineLW14},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-
-@article{DBLP:journals/algorithmica/ChanHMZ17,
-  author    = {Timothy M. Chan and
-               Meng He and
-               J. Ian Munro and
-               Gelin Zhou},
-  title     = {Succinct Indices for Path Minimum, with Applications},
-  journal   = {Algorithmica},
-  volume    = {78},
-  number    = {2},
-  pages     = {453--491},
-  year      = {2017},
-  url       = {https://doi.org/10.1007/s00453-016-0170-7},
-  doi       = {10.1007/s00453-016-0170-7},
-  timestamp = {Thu, 04 May 2017 17:53:28 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/algorithmica/ChanHMZ17},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
